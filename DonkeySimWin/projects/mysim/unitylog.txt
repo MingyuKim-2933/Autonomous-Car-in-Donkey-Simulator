@@ -1,0 +1,82 @@
+Mono path[0] = 'C:/Users/MINGYU/Desktop/DonkeySimWin2/donkey_sim_Data/Managed'
+Mono config path = 'C:/Users/MINGYU/Desktop/DonkeySimWin2/MonoBleedingEdge/etc'
+Initialize engine version: 2019.3.0f1 (ffacea4b84e7)
+[Subsystems] Discovering subsystems at path C:/Users/MINGYU/Desktop/DonkeySimWin2/donkey_sim_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 SUPER (ID=0x1f06)
+    Vendor:   
+    VRAM:     8031 MB
+    Driver:   27.21.14.6140
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.070 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.485100 ms
+SDSandbox Server starting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Server Listening on: 0.0.0.0:9091 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Waiting for a connection... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SDSandbox Server starting. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Server Listening on: 0.0.0.0:9092 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Waiting for a connection... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 1c6c -> priority: 1 
+  Thread -> id: 6288 -> priority: 1 
+  Thread -> id: 6e30 -> priority: 1 
+  Thread -> id: 2fac -> priority: 1 
+  Thread -> id: 5e70 -> priority: 1 
+  Thread -> id: 46e4 -> priority: 1 
+Waiting for a connection... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+client connected. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+loaded scene 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - All passes removed
+WARNING: Shader Did you use #pragma only_renderers and omit this platform?
+ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - Setting to default shader.
+UnloadTime: 5.365600 ms
+JustOne removing instance.MainThDisp 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+JustOne removing instance.SandboxServer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+JustOne removing instance.SandboxPrivateAPIServer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Added timer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+car loaded. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+Unloading 31 unused Assets to reduce memory usage. Loaded Objects now: 6272.
+Total: 2.077900 ms (FindLiveObjects: 0.462500 ms CreateObjectMapping: 0.047000 ms MarkObjects: 1.521800 ms  DeleteObjects: 0.046500 ms)
+
+Got car config message 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting car config. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
