@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from soft_actor_critic import SAC_VAE_Agent, SAC_Agent
 
 
-DONKEY_SIM_PATH = "/Users/brix/Works/SideProjects/UnityRL/DonkeySimMac-race/donkey_sim.app/Contents/MacOS/donkey_sim"
+DONKEY_SIM_PATH = "../DonkeySimMac-race/donkey_sim.app/Contents/MacOS/donkey_sim"
 SIM_HOST = "127.0.0.1"
 SIM_ARTIFICIAL_LATENCY = 0
 
