@@ -8,7 +8,7 @@ from tensorflow.keras.layers import Conv2D, Flatten, Dense
 from collections import deque
 
 
-DONKEY_SIM_PATH = "/Users/brix/Works/SideProjects/UnityRL/DonkeySimMac-race/donkey_sim.app/Contents/MacOS/donkey_sim"
+DONKEY_SIM_PATH = "../DonkeySimMac-race/donkey_sim.app/Contents/MacOS/donkey_sim"
 DONKEY_GYM_ENV_NAME = "donkey-generated-roads-v0"
 SIM_HOST = "127.0.0.1"
 SIM_ARTIFICIAL_LATENCY = 0
