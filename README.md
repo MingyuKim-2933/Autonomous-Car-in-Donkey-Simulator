@@ -4,6 +4,9 @@
 
 Donkey Car Simulator에서 강화학습을 기반으로 자율주행 알고리즘을 개발하였습니다.
 
+자율 주행 코드: Autonomous-Car-in-Donkey-Simulator/DonkeySimWin/projects/mysim
+
+
 1. DDQN
 
 2. DDQN + VAE
