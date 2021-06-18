@@ -6,6 +6,7 @@ Donkey Car Simulator에서 강화학습을 기반으로 자율주행 알고리�
 
 자율 주행 코드 위치: Autonomous-Car-in-Donkey-Simulator/DonkeySimWin/projects/mysim
 
+4개의 강화학습 모델로 학습을 진행했습니다.
 
 1. DDQN
 
