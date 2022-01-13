@@ -4,6 +4,10 @@
 
 Donkey Car Simulator에서 강화학습을 기반으로 자율주행 알고리즘을 개발하였습니다.
 
+주간기록 : https://www.ai-lab.kr/opens/60125af9d85048992b7efa12
+
+Notion : https://www.notion.so/Self-Driving-Car-75187046f2bb48e89fef23e1446eff63 (환경 구축 방법 및 프로젝트 진행 기록)
+
 자율 주행 코드 위치: Autonomous-Car-in-Donkey-Simulator/DonkeySimWin/projects/mysim
 
 5개의 학습 모델로 학습을 진행했습니다.
