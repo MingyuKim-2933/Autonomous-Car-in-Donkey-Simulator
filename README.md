@@ -21,3 +21,5 @@ Notion : https://www.notion.so/Self-Driving-Car-75187046f2bb48e89fef23e1446eff63
 4. SAC
 
 5. SAC + VAE
+
+이 중 SAC + VAE가 가장 높은 성능을 보였습니다.
